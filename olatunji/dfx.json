@@ -1,0 +1,15 @@
+{
+  "canisters": {
+    "olatunji": {
+      "main": "src/olatunji/main.mo",
+      "type": "motoko"
+    }
+  },
+  "networks": {
+    "local": {
+      "bind": "127.0.0.1:8020",
+      "type": "ephemeral"
+    }
+  },
+  "version": 1
+}
